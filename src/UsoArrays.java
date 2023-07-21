@@ -15,7 +15,6 @@ public class UsoArrays {
 
         // Manera 2 de declarar una matriz
         int [] mi_matriz={5,38,-15,92,71,25,46,46,16,81,64,974,2,1,-23};
-        Arrays.sort(mi_matriz);
 
         for (int i=0;i<mi_matriz.length;i++){
             System.out.println("Valor del índice " + i + " = " + mi_matriz[i]);
