@@ -17,8 +17,7 @@ public class Pruebas {
 
         System.out.println(trabajador4.devuelveDatos());
 
-        System.out.println(Integer.parseInt(Empleados.dameIdSiguiente())+2);
-
+        System.out.println(Empleados.dameIdSiguiente());
 
 
 
